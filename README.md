@@ -10,17 +10,25 @@
   <img align="center" alt="Kotok7-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-<!-- Image on the right at the top -->
-<div style="display: flex; justify-content: flex-end; margin-top: 20px;">
-  <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" width="200" />
+### 📊 GitHub Stats:
+<div>
+  <a href="https://github.com/Kotok7">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Kotok7&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotok7&layout=compact&langs_count=7&theme=one_dark_pro" />
+  </a>
 </div>
 
-### 📊 GitHub Stats:
-<div style="display: flex; justify-content: flex-start; margin-top: 20px;">
-  <div>
-    <a href="https://github.com/Kotok7">
-      <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Kotok7&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
-      <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotok7&layout=compact&langs_count=7&theme=one_dark_pro" />
-    </a>
-  </div>
+### 📬 Contact Me:
+<div>
+  <a href="https://www.linkedin.com/in/kotok7" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kotokk@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<!-- Image independently positioned to the right -->
+<div style="position: absolute; top: 20px; right: 0;">
+  <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" width="200" />
 </div>
