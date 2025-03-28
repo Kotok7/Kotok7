@@ -24,9 +24,3 @@ I'm a passionate web developer who loves coding and learning new technologies ju
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotok7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-## 🎨 It's me:
-
-<img src="https://media.tenor.com/6z7s3JpIXUAAAAAM/maxwell-cat.gif" width="200">
-
----
