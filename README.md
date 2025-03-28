@@ -27,6 +27,6 @@ I'm a passionate web developer who loves coding and learning new technologies ju
 
 ## 🎨 It's me:
 
-<img src="" width="200">
+<img src="https://media.tenor.com/6z7s3JpIXUAAAAAM/maxwell-cat.gif" width="200">
 
 ---
