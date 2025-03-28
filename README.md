@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Kotok7.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Kotokk.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 ### 🚀 Technologies and Tools:
 <div style="display: inline-block;">
@@ -18,17 +18,6 @@
   </a>
 </div>
 
-### 📬 Contact Me:
-<div>
-  <a href="https://www.linkedin.com/in/kotok7" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kotokk@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
-<!-- Image independently positioned to the right -->
 <div style="position: absolute; top: 20px; right: 0;">
   <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" width="200" />
 </div>
