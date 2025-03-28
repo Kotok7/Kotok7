@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Kotokk.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Kotok7.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 ### 🚀 Technologies and Tools:
 <div style="display: inline-block;">
@@ -10,15 +10,17 @@
   <img align="center" alt="Kotok7-Git" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
-### 📊 GitHub Stats and Image:
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<!-- Image on the right at the top -->
+<div style="display: flex; justify-content: flex-end; margin-top: 20px;">
+  <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" width="200" />
+</div>
+
+### 📊 GitHub Stats:
+<div style="display: flex; justify-content: flex-start; margin-top: 20px;">
   <div>
     <a href="https://github.com/Kotok7">
       <img height="195px" src="https://github-readme-stats.vercel.app/api?username=Kotok7&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true" />
       <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotok7&layout=compact&langs_count=7&theme=one_dark_pro" />
     </a>
-  </div>
-  <div>
-    <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" width="200" />
   </div>
 </div>
