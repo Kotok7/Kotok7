@@ -18,6 +18,7 @@
   </a>
 </div>
 
+### 😻 It's me btw!:
 <div style="position: absolute; top: 20px; right: 0;">
   <img src="https://github.com/user-attachments/assets/3dd95ed7-9349-404f-8506-a3ad9a4cf5fb" alt="Pixel Art" width="200" />
 </div>
