@@ -1,4 +1,4 @@
-# Hi, everyone! 👋 I'm Your Name
+# Hi, everyone! 👋 I'm Kotok7
 
 I'm a passionate developer who loves coding and learning new technologies.
 
@@ -17,15 +17,17 @@ I'm a passionate developer who loves coding and learning new technologies.
 
 ## 📊 GitHub Stats:
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Kotok7's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kotok7&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## 🔥 Most Used Languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kotok7&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
+
+## 🎨 Maxwell for Fun:
 
 <img src="https://media.tenor.com/6z7s3JpIXUAAAAAM/maxwell-cat.gif" width="200">
 
