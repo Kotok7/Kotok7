@@ -1,12 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Kotokk.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hello!+I'm+Kotokk.;Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 ### 🎯 About Me:
 - 👨‍💻 Passionate developer constantly learning and building cool projects.
-- 🚀 Currently working on **[Your Current Project]**.
-- 🌱 Exploring **PHP, JavaScript, Python**, and modern web technologies.
-- 🤝 Open to collaborations on **interesting web and open-source projects**.
-- 💬 Ask me anything about **web development, backend, or best coding practices**.
-- 📫 Reach me at **[Your Contact Info or Socials]**.
+- 🚀 Currently working on PusheenWeb and my About Me page (links in profile description).
+- 💡 Most of my work is done using HTML, CSS, and JavaScript (web development), rather than Python. However, I don't publish most of my projects on GitHub.
 
 ### 🚀 Technologies and Tools:
 <div style="display: inline-block;">
