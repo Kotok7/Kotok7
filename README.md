@@ -2,7 +2,7 @@
 
 ### 🎯 About Me:
 - 👨‍💻 Passionate developer constantly learning and building cool projects.
-- 🚀 Currently working on "PusheenWeb" and my portfolio page page (links in profile description).
+- 🚀 Currently working on "PusheenWeb" and my portfolio page (links in profile description).
 - 💡 Most of my work is done using HTML, CSS, and JavaScript (web development), rather than Python. However, I don't publish most of my projects on GitHub.
 
 ### 🚀 Technologies and Tools:
