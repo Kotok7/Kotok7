@@ -2,7 +2,7 @@
 
 ### 🎯 About Me:
 - 👨‍💻 Passionate developer constantly learning and building cool projects.
-- 🚀 Currently working on my portfolio/about me page (link in profile description or check repo).
+- 🚀 Currently working on many sites on [kotokk.xyz](https://kotokk.xyz).
 - 💡 Most of my work is done using HTML, CSS, and JavaScript (web development), rather than Python but i don't post it there.
 
 ### 🚀 Technologies and Tools:
