@@ -3,7 +3,7 @@
 ### 🎯 About Me:
 - 👨‍💻 Passionate developer constantly learning and building cool projects.
 - 🚀 Currently working on my portfolio/about me page (link in profile description or check repo).
-- 💡 Most of my work is done using HTML, CSS, and JavaScript (web development), rather than Python.
+- 💡 Most of my work is done using HTML, CSS, and JavaScript (web development), rather than Python but i don't post it there.
 
 ### 🚀 Technologies and Tools:
 <div style="display: inline-block;">
