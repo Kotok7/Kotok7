@@ -2,16 +2,16 @@
 
 ### 🎯 About Me:
 - 👨‍💻 Passionate developer constantly learning and building cool projects.
-- 🚀 Currently working on many sites on [kotokk.xyz](https://kotokk.xyz).
-- 💡 Most of my work is done using HTML, CSS, and JavaScript (web development), rather than Python but i don't post it there.
+- 🚀 Currently working on on [kotokk.dev](https://kotokk.dev).
+- 💡 Most of my work is done using HTML, CSS, JavaScript and PHP (fullstack web development), rather than Python but i don't post it there.
 
 ### 🚀 Technologies and Tools:
 <div style="display: inline-block;">
-  <img align="center" alt="Kotok7-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Kotok7-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
   <img align="center" alt="Kotok7-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="Kotok7-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img align="center" alt="Kotok7-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img align="center" alt="Kotok7-PHP" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+  <img align="center" alt="Kotok7-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img align="center" alt="Kotok7-VS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
