@@ -3,7 +3,7 @@
 ### 🎯 About Me:
 - 👨‍💻 Passionate developer constantly learning and building cool projects.
 - 🚀 Currently working on on [kotokk.dev](https://kotokk.dev).
-- 💡 Most of my work is done using HTML, CSS, JavaScript and PHP (fullstack web development), rather than Python but i don't post it there.
+- 💡 Most of my work is done using HTML, CSS, JavaScript and PHP (fullstack web development).
 
 ### 🚀 Technologies and Tools:
 <div style="display: inline-block;">
