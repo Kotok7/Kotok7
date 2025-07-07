@@ -25,5 +25,5 @@
 
 ### 😻 It's me btw!:
 <div style="position: absolute; top: 20px; right: 0;">
-    <img src="https://raw.githubusercontent.com/Kotok7/Kotok7/main/Avatar.jpeg" alt="Nowy avatar" width="200"/>
+    <img src="https://raw.githubusercontent.com/Kotok7/Kotok7/main/Avatar.jpg" alt="Nowy avatar" width="200"/>
 </div>
