@@ -18,7 +18,7 @@
 ### 📊 GitHub Stats:
 <div>
   <a href="https://github.com/Kotok7">
-<img height="195px" src="https://github-readme-stats.vercel.app/api?username=Kotok7&show_icons=true&include_all_commits=true&count_private=true&theme=one_dark_pro" />
+<img height="195px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
 <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kotok7&layout=compact&langs_count=7&theme=one_dark_pro" />
   </a>
 </div>
